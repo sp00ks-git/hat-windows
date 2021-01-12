@@ -22,11 +22,11 @@ Features:
 
 The directory structure that HAT expects is.. (of course you can just ammend the code to your own needs)
 
--> /opt/worliststs/rockyou.txt  
--> /opt/wordlists/1GB-4GB/  
--> /opt/wordlists/4GB+/  
--> /opt/wordlists/english-words/  
--> /opt/wordlists/merged_list/
+-> C:\worliststs\rockyou.txt  
+-> C:\wordlists\1GB-4GB  
+-> C:\wordlists\4GB+  
+-> C:\wordlists\english-words  
+-> C:\wordlists\merged_list
 
 Suggested Wordlists download links (HTTP) - working as of 14/10/2019   
 * https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt (~14,300,000 words)
